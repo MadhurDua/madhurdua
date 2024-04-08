@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/chauhan._asmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chauhan._asmit" height="30" width="40" /></a>
+<a href="https://instagram.com/chauhan._asmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_u_a_madhur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
